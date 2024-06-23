@@ -20,16 +20,16 @@ But since the instructions are for all these devices, it must also work there. I
 ## Alternative
 There is a ready-made APPIMAGE that works like this without linux. See last release.
 
-##Control
-![alt text](https://github.com/paranoid64/AR488-XFR-GUI/tree/main/FRX1.png "IMAGE 1")
+## Control
+![Main](https://github.com/paranoid64/AR488-XFR-GUI/tree/main/FRX1.png "IMAGE 1")
 
 ## Terminal
-![alt text](https://github.com/paranoid64/AR488-XFR-GUI/tree/main/FRX2.png "IMAGE 2")
+![Terminal](https://github.com/paranoid64/AR488-XFR-GUI/tree/main/FRX2.png "IMAGE 2")
 
 If the error LED lights up, you can query the error here by clicking on ERROR.
 
 ## Device Info
-![alt text](https://github.com/paranoid64/AR488-XFR-GUI/tree/main/FRX3.png "IMAGE 3")
+![Device Info](https://github.com/paranoid64/AR488-XFR-GUI/tree/main/FRX3.png "IMAGE 3")
 
 Here is the answer from the ROM (M = Master, S = Slave ROM)
 
