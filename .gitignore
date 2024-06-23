@@ -70,7 +70,7 @@ Thumbs.db
 # --------
 *.dll
 *.exe
-
+*.AppImage
 
 # Build
 build
