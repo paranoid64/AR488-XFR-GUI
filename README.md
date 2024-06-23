@@ -3,10 +3,10 @@ Software control of the laboratory power supplies Ametek / Sorensen / Xantrex XF
 
 ## Required
 AR488 Arduino GPIB Interface is an Arduino-based controller for interfacing with IEEE488 GPIB devices via USB.
-To use this software, the simple adapter is required. So only the wiring without IC. 
+To use this software, the simple adapter is required. So only the wiring without IC.
 
 ## Note
-I currently only have one device to test, which is a Xantrex XFR 60-20. 
+I currently only have one device to test, which is a Xantrex XFR 60-20.
 But since the instructions are for all these devices, it must also work there. I would be very pleased to receive feedback.
 
 ## Required libs
@@ -20,3 +20,17 @@ But since the instructions are for all these devices, it must also work there. I
 ## Alternative
 There is a ready-made APPIMAGE that works like this without linux. See last release.
 
+##Control
+![alt text](https://github.com/paranoid64/AR488-XFR-GUI/tree/main/FRX1.png "IMAGE 1")
+
+## Terminal
+![alt text](https://github.com/paranoid64/AR488-XFR-GUI/tree/main/FRX2.png "IMAGE 2")
+
+If the error LED lights up, you can query the error here by clicking on ERROR.
+
+## Device Info
+![alt text](https://github.com/paranoid64/AR488-XFR-GUI/tree/main/FRX3.png "IMAGE 3")
+
+Here is the answer from the ROM (M = Master, S = Slave ROM)
+
+The maximum volts and amperes are determined via ID Command
