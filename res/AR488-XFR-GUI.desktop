@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AR488-XFR
+Comment=XFR Series
+TryExec=AR488-XFR-GUI
+Exec=AR488-XFR-GUI
+Icon=icon_250.png
+MimeType=image/x-foo;
+Categories=Utility;
+Name[de_DE]=AR488-XFR-GUI.desktop
