@@ -5,6 +5,10 @@ Software control of the laboratory power supplies Ametek / Sorensen / Xantrex XF
 AR488 Arduino GPIB Interface is an Arduino-based controller for interfacing with IEEE488 GPIB devices via USB.
 To use this software, the simple adapter is required. So only the wiring without IC.
 
+Building instructions and firmware are available here and are also very well documented:
+
+[link AR488](https://github.com/Twilight-Logic/AR488)
+
 ## Note
 I currently only have one device to test, which is a Xantrex XFR 60-20.
 But since the instructions are for all these devices, it must also work there. I would be very pleased to receive feedback.
